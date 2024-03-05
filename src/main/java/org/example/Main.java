@@ -18,7 +18,7 @@ public class Main {
         names.add("Anna");
         names.add("Robert");
         names.add("Milan");
-        names.add("Gregor");
+
 
         // Lambda funkcia na usporiadanie listu
         Collections.sort(names, (a, b) -> a.compareTo(b));
